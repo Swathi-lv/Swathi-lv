@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swathi Lakshmi</h1>
-<h3 align="center">Senior Ecommerce Specialist | 7+ Years Global Account Management</h3>
+<h3 align="center">Senior Ecommerce Account Specialist | 7+ Years Global Account Management</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swathi-lv&label=Profile%20views&color=0e75b6&style=flat" alt="swathi-lv" /> </p>
 
