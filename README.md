@@ -1,29 +1,30 @@
-# Hi 👋, I'm Swathi Lakshmi
+<h1 align="center">Hi 👋, I'm Swathi Lakshmi</h1>
+<h3 align="center">Senior Ecommerce Specialist | 7+ Years Global Account Management</h3>
 
-Senior Ecommerce Account Specialist with 7+ years of experience in managing global portfolios and driving 40% growth.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swathi-lv&label=Profile%20views&color=0e75b6&style=flat" alt="swathi-lv" /> </p>
 
-🔭 **I’m currently working on** Managing 60+ global brands and optimizing lead management funnels.
+- 🔭 I’m currently working on **driving growth for 60+ global brands through data-led strategy and technical solutions.**
 
-🌱 **I’m currently learning** AWS Cloud Practitioner and Freshworks Product Expert (C001) certification.
+- 🌱 I’m currently learning **AWS Cloud Practitioner and Freshworks Advanced CRM**
 
-✍️ **All of my writing is available at** [Scribbled Seed](https://http792788712.wordpress.com/)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/Swathi-lv">Github Repo</a>
 
-📸 **Follow the visual journey on** [Instagram @scribbled_seed](https://www.instagram.com/scribbled_seed/)
+- 📝 I regularly write articles on <a href="https://http792788712.wordpress.com/">scribbled_seed</a>
 
-👨‍💻 **All of my projects are available at** [Swathi-lv.github.io/portfolio/](https://Swathi-lv.github.io/portfolio/)
+- 📸 Follow the visual journey on <a href="https://www.instagram.com/scribbled_seed/">scribbled_seed (Insta)</a>
 
-📫 **How to reach me** [swathilakshmiv99@gmail.com](mailto:swathilakshmiv99@gmail.com)
+- 📫 How to reach me **swathilakshmiv99@gmail.com**
 
-📄 **Know about my experiences via my** [LinkedIn Profile](https://www.linkedin.com/in/swathi-lakshmiv)
+- 📄 Know about my experiences in <a href="https://www.linkedin.com/in/swathi-lakshmiv/">LinkedIn</a>
 
----
-
-### **Connect with me:**
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/swathi-lakshmiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://http792788712.wordpress.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="WordPress" height="30" width="40" /></a>
-<a href="https://www.instagram.com/scribbled_seed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/swathi-lakshmiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/swathi-lakshmiv" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/scribbled_seed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/scribbled_seed/" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ---
 
@@ -42,9 +43,4 @@ Senior Ecommerce Account Specialist with 7+ years of experience in managing glob
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 </p>
 
-**Creative & Strategy**
 
-<p align="left"> 
-  <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="40" height="40"/> 
-</p>
