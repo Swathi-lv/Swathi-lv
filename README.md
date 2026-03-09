@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **driving growth for 60+ global brands through data-led strategy and technical solutions.**
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner and Freshworks Advanced CRM**
+- 🌱 I’m currently learning **AWS Cloud Practitioner**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Swathi-lv">Github Repo</a>
 
